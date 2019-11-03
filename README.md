@@ -1,4 +1,4 @@
-# Distributed-starage-system-study
+# Distributed-storage-system-study
 
 大规模分布式存储系统 原理解析与架构实战
 
